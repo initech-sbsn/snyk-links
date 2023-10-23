@@ -2,14 +2,14 @@
 
 ## Snyk Code
 
-* [Supported frameworks and languages](https://docs.snyk.io/scan-applications/snyk-code/snyk-code-language-and-framework-support)
+* [Supported frameworks and languages](https://docs.snyk.io/scan-applications/supported-languages-and-frameworks/supported-languages-frameworks-and-feature-availability-overview#code-analysis-snyk-code)
 * [Supported SCMs](https://docs.snyk.io/scan-applications/snyk-code/snyk-code-key-features/snyk-code-supported-integrations#supported-scms)
 * [Rules](https://docs.snyk.io/scan-applications/snyk-code/security-rules-used-by-snyk-code)
 * [IDE integrations](https://docs.snyk.io/scan-applications/snyk-code/snyk-code-key-features/snyk-code-supported-integrations#ide-integrations)
 * [Severity scores](https://docs.snyk.io/scan-applications/snyk-code/exploring-and-working-with-snyk-code-results-in-the-web-ui/understanding-the-severity-score-of-snyk-code-issues)
 
 ## Snyk Open Source
-* [Supported languages and package managers](https://docs.snyk.io/scan-applications/snyk-open-source/snyk-open-source-supported-languages-and-package-managers)
+* [Supported languages and package managers](https://docs.snyk.io/scan-applications/supported-languages-and-frameworks/supported-languages-frameworks-and-feature-availability-overview#open-source-and-licensing-snyk-open-source)
 * [Vulnerability database](https://security.snyk.io/)
 * [Vulnerability database details](https://docs.snyk.io/scan-applications/snyk-open-source/manage-vulnerabilities/using-the-snyk-vulnerability-database)
 * [Research team](https://security.snyk.io/disclosed-vulnerabilities)
